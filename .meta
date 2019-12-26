@@ -1,5 +1,6 @@
 {
   "projects": {
-    "my-repo": "git@github.com:ravijpyadav/my-repo2"
+    "my-repo": "git@github.com:ravijpyadav/my-repo",
+    "my-repo2": "git@github.com:ravijpyadav/my-repo2"
   }
 }
